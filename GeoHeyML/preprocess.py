@@ -8,7 +8,7 @@ import pandas as pd
 
 import lightgbm as lgb
 
-from scipy.stats import boxcox
+# from scipy.stats import boxcox
 # from scipy.special import inv_boxcox
 
 from sklearn.preprocessing import LabelEncoder
